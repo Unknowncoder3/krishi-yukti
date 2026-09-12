@@ -26,6 +26,9 @@ htmlcov/
 /datasets/
 /ml/*/artifacts/
 /ml/*/checkpoints/
+/backend/ml/data/
+/backend/ml/*/artifacts/
+/backend/ml/*/checkpoints/
 
 # Environment
 .env
